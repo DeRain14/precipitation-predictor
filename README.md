@@ -1,4 +1,4 @@
-# Avalara Challenge
+# Precipitation Predictor
 
 ## Command Used for Testing
 ./27612-precipitation-data.txt [Date(MM/DD/YYYY or MM/DD/YY)]
