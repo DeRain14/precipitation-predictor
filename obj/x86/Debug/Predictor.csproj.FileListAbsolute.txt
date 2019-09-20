@@ -1,0 +1,7 @@
+C:\Users\Derian Green\avalara-challenge\obj\x86\Debug\Predictor.csproj.CoreCompileInputs.cache
+C:\Users\Derian Green\avalara-challenge\obj\x86\Debug\Predictor.csprojAssemblyReference.cache
+C:\Users\Derian Green\avalara-challenge\bin\Debug\AvalaraProject.exe.config
+C:\Users\Derian Green\avalara-challenge\bin\Debug\AvalaraProject.exe
+C:\Users\Derian Green\avalara-challenge\bin\Debug\AvalaraProject.pdb
+C:\Users\Derian Green\avalara-challenge\obj\x86\Debug\AvalaraProject.exe
+C:\Users\Derian Green\avalara-challenge\obj\x86\Debug\AvalaraProject.pdb

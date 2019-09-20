@@ -1,12 +1,11 @@
 using System;
-using System.DateTime;
 
 namespace Avalara {
     public struct Prediction {
         //prediction date
-        public DateTime date;
+        public string date;
         //amount of precipitation predicted
-        public float prediction;
+        public double prediction;
     }
 
     public struct PrecipDataElement {
@@ -19,10 +18,10 @@ namespace Avalara {
         //longitude of area
         public float longitude;
         //elevation of area
-        public float elevation;
+        public double elevation;
         //date of precipitation measurement
         public DateTime date;
         //amount of precipitation
-        public float precip;
+        public double precip;
     }
 }
