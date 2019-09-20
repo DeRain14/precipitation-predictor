@@ -60,7 +60,7 @@ namespace Avalara {
                 }
             }
             catch (IOException e) {
-                Console.WriteLine("File " + filename + " does not exist.");
+                Console.WriteLine("File path " + filename + " is invalid. File must exist and have the .txt extension.");
             }
         }
     }

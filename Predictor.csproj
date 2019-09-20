@@ -5,7 +5,7 @@
     <ProjectGuid>{FAF1789B-C095-49BA-977E-1F4307ADE9D2}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <NoStandardLibraries>false</NoStandardLibraries>
-    <AssemblyName>AvalaraProject</AssemblyName>
+    <AssemblyName>Predictor</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>
     </TargetFrameworkProfile>

@@ -26,9 +26,9 @@ namespace Avalara
             Prediction precipPred;
             DataContractJsonSerializer json = new DataContractJsonSerializer(typeof(Prediction));
 
-            //only execute if given filepath exists
+            //only execute if given filepath exists and is a .txt file
             if (!File.Exists(args[0]))
-                Console.WriteLine("Invalid file path.");
+                Console.WriteLine("File path " + args[0] + " is invalid. File must exist and have the .txt extension.");
             else
             {
                 dataReader = new DataReader(args[0]);
@@ -54,9 +54,9 @@ namespace Avalara
                         Console.WriteLine("Invalid argument. " +
                         "Date must be formatted using standard conventions e.g. MM/DD/YYYY or MM/DD/YY.");
                     }
-                    Console.Read();//waits for input before exiting
                 }
             }
+            Console.Read();//waits for input before exiting
         }
     }
 }
